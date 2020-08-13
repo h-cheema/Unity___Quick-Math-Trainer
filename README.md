@@ -1,3 +1,6 @@
+* ![Screenshot](/Screenshots/Logo.PNG)</li>
+
+
 <h1 align="center">Quick Math Trainer</h1>
 
 <p align="center">
