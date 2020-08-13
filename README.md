@@ -21,6 +21,7 @@
 
 * Arithmetic skills are important. Practicing basic arithmetic problems daily is a solid way to improve your arithmetic skills. Quick Math Trainer allows you to practice basic math questions against the clock.
 
+* How To Play
 1. Choose one or multiple operators: Add, Subtract, Multiply, Divide.
 2. Choose a difficulty setting from: Easy, Medium, Hard.
 3. Answer all of the questions correctly before time runs out!
