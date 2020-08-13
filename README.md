@@ -9,7 +9,21 @@
 
 <br>
 
-### Summary:
+### Project Summary:
+
+Quick Math Trainer was created with the Unity Game Engine and C# scripting and is available on Android OS. As of right now, it is a single player game. A future release will add multiplayer so you can play with your friends over the internet!
+
+<br>
+
+### Game Overview:
+
+Practice arithmetic questions against the clock. 
+
+Arithmetic skills are important. Practicing basic arithmetic problems daily is a solid way to improve your arithmetic skills. Quick Math Trainer allows you to practice basic math questions against the clock.
+
+1. Choose one or multiple operators: Add, Subtract, Multiply, Divide.
+2. Choose a difficulty setting from: Easy, Medium, Hard.
+3. Answer all of the questions correctly before time runs out!
 
 <br>
 
@@ -43,10 +57,10 @@
 <br>
 
 ### Screenshots - Menus
-* ![Screenshot](/Screenshots/Screenshot_Menus.jpg)</li>
+![Screenshot](/Screenshots/Screenshot_Menus.jpg)</li>
 
 ### Screenshots - In-Game
-* ![Screenshot](/Screenshots/Screenshot_Game.jpg)</li>
+![Screenshot](/Screenshots/Screenshot_Game.jpg)</li>
 
 <br>
 
