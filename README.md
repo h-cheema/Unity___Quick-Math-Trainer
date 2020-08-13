@@ -1,9 +1,11 @@
 <h1 align="center">Quick Math Trainer</h1>
 
-<a align="center" href="https://play.google.com/store/apps/details?id=com.TeraKeySoftware.QuickMathTrainer" target="_blank">
-<img width="180" height="80" 
-src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="">
-</a>
+<p align="center">
+	<a href="https://play.google.com/store/apps/details?id=com.TeraKeySoftware.QuickMathTrainer" target="_blank">
+	<img width="180" height="80" 
+	src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="">
+	</a>
+</p>
 
 <br>
 
