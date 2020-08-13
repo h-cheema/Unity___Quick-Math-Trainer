@@ -57,10 +57,10 @@ Arithmetic skills are important. Practicing basic arithmetic problems daily is a
 <br>
 
 ### Screenshots - Menus
-![Screenshot](/Screenshots/Screenshot_Menus.jpg)</li>
+* ![Screenshot](/Screenshots/Screenshot_Menus.jpg)</li>
 
 ### Screenshots - In-Game
-![Screenshot](/Screenshots/Screenshot_Game.jpg)</li>
+* ![Screenshot](/Screenshots/Screenshot_Game.jpg)</li>
 
 <br>
 
