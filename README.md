@@ -1,14 +1,16 @@
-* ![Screenshot](/Screenshots/Logo.PNG)</li>
-
-
-<h1 align="center">Quick Math Trainer</h1>
-
+<p align="center">
+	<img width="250" src="https://github.com/h-cheema/Unity-Game---Quick-Math-Trainer/blob/master/Screenshots/Logo.PNG" alt="">
+</p>
 <p align="center">
 	<a href="https://play.google.com/store/apps/details?id=com.TeraKeySoftware.QuickMathTrainer" target="_blank">
 	<img width="180" height="80" 
 	src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="">
 	</a>
 </p>
+
+<br>
+
+<h1 align="center">Quick Math Trainer</h1>
 
 ### Summary:
 
