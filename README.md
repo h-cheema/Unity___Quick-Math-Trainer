@@ -11,8 +11,8 @@
 
 ### Project Summary:
 
-* Quick Math Trainer was created with the Unity Game Engine and C# scripting and is available on Android OS. As of right now, it is a single player game. A future release will add multiplayer so you can play with your friends over the internet!
-
+* Quick Math Trainer was created with the Unity Game Engine and C# scripting and is available on Android OS. It is my second larger scale project after Switchy Shapes.
+* As of right now, it is a single player game. I plan on adding P2P multiplayer (using the Mirror framework) in the near future so players can play with their friends over the internet. The game scripts are already set up in a modular way which support the addition of a server and client system.
 <br>
 
 ### Game Overview:
