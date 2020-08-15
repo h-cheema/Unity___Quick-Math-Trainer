@@ -50,10 +50,8 @@
 <br>
 
 ### Technical Details:
-* 2D mobile game
-* Built from scratch using the Unity Game Engine and C# scripting
-* Close to 2000 lines of C# code across 7 scripts
-* Responsive UI
+* Close to 1500 lines of C# code across 7 scripts
+* Responsive UI layout adapts to any portrait display
 
 <br>
 
