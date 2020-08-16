@@ -1,4 +1,12 @@
-﻿using System;
+/*
+ * Manages the "NewGame" menu scene. In this scene, the user chooses which algebraic operators they want the questions to use, 
+ * how difficult the questions should be (easy, medium or hard) and whether they want sound on or off.
+ * 
+ * Modifies the GameSetupData.cs class directly. Once the user chooses to start the game, this is when GamePreprocessor.cs 
+ * generates all of the QuestionAndAnswer objects using the data from GameSetupData before the Game scene is loaded.
+*/
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
