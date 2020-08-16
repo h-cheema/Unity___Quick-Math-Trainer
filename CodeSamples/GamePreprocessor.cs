@@ -1,5 +1,6 @@
 /*
 Generates questions and answers based on GameSetupData.cs using GenerateQuestionAndAnswer().
+Processes game data before the game begins. Mainly used to generate questions and answers.
 */
 
 using System;
