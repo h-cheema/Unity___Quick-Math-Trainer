@@ -1,4 +1,14 @@
-﻿using System;
+/*
+Is instantiated once the Game scene is loaded and an actual round of a game starts. It handles all of the Text and Image 
+component updates, animations, scoring, the game timer, and win/loss detection.
+
+It takes the list of QuestionAndAnswer objects and displays the first one for the player to answer. If the user answers 
+correctly, the question iterates, animations and a sound play to let the user know they answered correctly, and the UI 
+components (answer area, question text, score area) update to the next question after the animation has stopped. Once the 
+player either wins or loses the game, the timer is turned off and the finish screen is faded in.
+*/
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
