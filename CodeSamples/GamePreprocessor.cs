@@ -1,4 +1,8 @@
-﻿using System;
+/*
+Generates questions and answers based on GameSetupData.cs using GenerateQuestionAndAnswer().
+*/
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
