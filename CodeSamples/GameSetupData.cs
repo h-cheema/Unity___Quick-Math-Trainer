@@ -1,4 +1,8 @@
-﻿using System.Collections.Generic;
+/*
+A regular class which is instantiated when the GameSetup scene is loaded. It keeps track of all the relevant variables needed to create a single round of a game.
+*/
+
+using System.Collections.Generic;
 
 /// <summary>
 /// Used as a data holder for the GamePreprocessor script.
